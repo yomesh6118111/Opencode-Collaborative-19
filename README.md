@@ -27,7 +27,7 @@ Like us on [Facebook](https://www.facebook.com/opencodeiiita/)
 
 ## Adding a mentor
 
-To add a mentor open `mentors.json` and please maintain the following format EXACTLY (replacing values where indicated):
+To add a mentor open `mentors.json` and please maintain the following format EXACTLY (replace the values where indicated):
 ```
      {
 
